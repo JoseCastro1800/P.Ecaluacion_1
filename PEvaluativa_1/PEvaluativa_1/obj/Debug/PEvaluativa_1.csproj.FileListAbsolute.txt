@@ -1,0 +1,2 @@
+C:\Users\karla\OneDrive\Desktop\PEvaluativa_1\PEvaluativa_1\obj\Debug\PEvaluativa_1.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\PEvaluativa_1\PEvaluativa_1\obj\Debug\PEvaluativa_1.csproj.CoreCompileInputs.cache
